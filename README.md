@@ -3,7 +3,7 @@
 - 👀 I’m into everything related to tech: dev, security, cheats, and underground tinkering  
 - 🌱 Currently learning and improving in C++, Python, SQL, and exploring new technologies  
 - 💞️ Open to collaborate on fun and technical projects, especially around dev and security  
-- 📫 Reach me on Discord 
+- 📫 Reach me on Mail/Discord 
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I'm a *cyber hackerrr* doing my magic under [![Mullvad VPN](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mullvad_logo.svg/120px-Mullvad_logo.svg.png)](https://mullvad.net/en/) 
 
